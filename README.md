@@ -5,8 +5,8 @@ FUNDAI SCHOOL ACTIVITIES
 
 ## Student Information
 - Name: Lazarte Angelo T.
-- Course: BSCSAI 2a
-- Section: 2a
+- Course: BSCSAI 
+- Section: 09282, FUNDAI
 - GitHub Username: Angelo
 
 ## Laboratory Activities
